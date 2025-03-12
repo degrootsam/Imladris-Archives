@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Imladris Archives
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+> May it be a light to you in dark places, when all other lights go out.
+
+Welcome to my digital garden!
+
+This place is a collection of random thoughts,
+cool ideas, things I've learned and maybe even more.
