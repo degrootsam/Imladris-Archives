@@ -1,5 +1,5 @@
 ---
-title: "TIL Parsing code with Acorn"
+title: "Parsing Code"
 ---
 
 Some notes I took while working with Acorn code parser.
