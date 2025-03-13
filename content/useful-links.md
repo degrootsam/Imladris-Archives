@@ -8,4 +8,5 @@ title: "Useful links"
 * [Mock API's](https://api-ninjas.com/)
 * [Check a file's mimetype](https://mimetype.io/)
 * [Super sexy code screenshots](https://ray.so/)
-* [Icon Generator for Mobile Apps](https://www.appicon.co/)
+* [Icon Subset Generator for Mobile Apps](https://www.appicon.co/)
+* [P2P File Transfer](https://file.pizza/)
