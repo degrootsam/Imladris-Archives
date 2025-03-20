@@ -2,11 +2,7 @@
 title: "Building my own AI Agent"
 ---
 
-I'm going to try to build my own AI-agent and will try to document this process as much as possible.
-
 ## Toolkit
-
-I will build my AI agent using the following tools:
 
 - [Rust](https://www.rust-lang.org/learn/get-started)
 - [Ollama](https://ollama.com/)
@@ -15,13 +11,14 @@ I will build my AI agent using the following tools:
 
 ## Purpose
 
-The AI agent will provide support with
+The AI agent is able provide support with
 
 - [x] Code analysis
 - [ ] Code generation
 - [ ] Managing dependencies
 - [ ] Scaffold boilerplate code
 - [ ] Initialize projects
+- [ ] Managing context
 
 ![AI analyzing code](./gifs/analyze-code.gif)
 
