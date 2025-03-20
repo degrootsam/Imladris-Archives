@@ -21,5 +21,7 @@ Imagine you’re teaching the AI not just about dogs and cats, but everything—
 ### For example
 
 GPT-4o has about 200 billion parameters, meaning it has 200 billion tiny memory notes that help it understand and generate text.
-🎹 A Simple Analogy:
+
+#### 🎹 A Simple Analogy:
+
 Think of an AI model like a piano. Each key on the piano is like a parameter. A small toy piano (with fewer keys) can only play simple songs, but a big grand piano (with many keys) can play complex and beautiful music. More parameters allow the AI to generate more detailed and intelligent responses.
