@@ -67,10 +67,10 @@ async fn main() -> Result<(), Box<dyn std::error::Error + Sync + Send>> {
 }
 ```
 
-1. First the initialize ollama with default settings.
-2. Allow the AI agent to store chat history in a Vector
+1. First initialize Ollama with `ollama_rs::default()` settings.
+2. Allow the AI agent to store chat history in a Vector.
 3. Define the tools that the AI agent can use.
-4. Starts a simple chat loop
+4. Starts a simple chat loop.
 
 ### Tools
 
