@@ -23,6 +23,8 @@ The AI agent will provide support with
 - [ ] Scaffold boilerplate code
 - [ ] Initialize projects
 
+![AI analyzing code](../public/static/gifs/Analyze Code.gif)
+
 ### Context
 
 The AI will need to be provided with context to achieve various tasks.
