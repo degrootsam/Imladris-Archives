@@ -23,7 +23,7 @@ The AI agent will provide support with
 - [ ] Scaffold boilerplate code
 - [ ] Initialize projects
 
-![AI analyzing code](<../public/static/gifs/Analyze\ Code.gif>)
+![AI analyzing code](../public/static/gifs/analyze-code.gif)
 
 ### Context
 
