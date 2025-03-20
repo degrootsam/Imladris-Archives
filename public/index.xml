@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Sam de Groot</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Useful links</title>
+    <link>https://quartz.jzhao.xyz/useful-links</link>
+    <guid>https://quartz.jzhao.xyz/useful-links</guid>
+    <description>A collection of awesome dev tools.</description>
+    <pubDate>Thu, 13 Mar 2025 15:28:57 GMT</pubDate>
+  </item><item>
+    <title>Parsing Code</title>
+    <link>https://quartz.jzhao.xyz/acorn</link>
+    <guid>https://quartz.jzhao.xyz/acorn</guid>
+    <description>Some notes I took while working with Acorn code parser. acorn npm i acorn Supporting TypeScript If you want to support TypeScript, make sure to use the npm package @sveltejs/acorn-typescript instead of acorn-typescript.</description>
+    <pubDate>Thu, 13 Mar 2025 08:39:09 GMT</pubDate>
+  </item><item>
+    <title>Welcome to the Imladris Archives</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description> May it be a light to you in dark places, when all other lights go out. Welcome to my digital garden! This place is a collection of random thoughts, cool ideas, things I’ve learned and maybe even more.</description>
+    <pubDate>Wed, 12 Mar 2025 18:44:23 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
