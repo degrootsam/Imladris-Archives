@@ -2,6 +2,8 @@
 title: "AI"
 ---
 
+I asked AI to explain what parameters are:
+
 ## 📊 What Are Parameters?
 
 Think of parameters as tiny memory notes the AI keeps while learning. Each parameter stores a small piece of knowledge about the patterns it has seen.
