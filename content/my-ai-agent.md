@@ -33,7 +33,7 @@ The AI will need to be provided with context to achieve various tasks.
 
 Certain AI models can utilize tools to perform tasks based on the user's input. For example: When the user prompts `Analyze the file at {PATH}`, the agent should have a tool available to read files:
 
-```rust-lang
+```rust
 
 /// High-level function that summarizes JavaScript or TypeScript code based on the file type .
 #[function]
