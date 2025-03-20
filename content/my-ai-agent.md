@@ -75,10 +75,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error + Sync + Send>> {
 3. Define the tools that the AI agent can use.
 4. Starts a simple chat loop
 
-```
-
-```
-
 ### Tools
 
 Certain AI models can utilize tools to perform tasks based on the user's input. For example: When the user prompts `Analyze the file at {PATH}`, the agent should have a tool available to read files:
