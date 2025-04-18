@@ -9,6 +9,10 @@ title: "Building my own AI Agent"
 - [Ollama-rs](https://github.com/pepperoni21/ollama-rs)
 - [qwen2.5-Coder (7B params)](https://ollama.com/library/qwen2.5-coder)
 
+## Repository
+
+[GitHub: degrootsam/agent-qwen](https://github.com/degrootsam/agent-qwen)
+
 ## Purpose
 
 The AI agent is able provide support with
