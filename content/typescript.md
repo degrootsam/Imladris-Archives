@@ -1,4 +1,6 @@
-# TypeScript for Dummies
+---
+title: "Typescript for dummies"
+---
 
 A friendly, step-by-step introduction to TypeScript—the typed superset of JavaScript that helps you write safer, more maintainable code.
 
